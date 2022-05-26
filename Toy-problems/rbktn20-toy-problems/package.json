@@ -1,0 +1,21 @@
+{
+  "name": "rbktntoyproblems",
+  "version": "1.0.0",
+  "description": "daily javascript challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:all": "mocha */*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RBK-TN/rbktn-toy-problems.git"
+  },
+  "author": "Garrett Cox",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.1"
+  },
+  "devDependencies": {}
+}
